@@ -1,3 +1,3 @@
 # mscloud
-学习spirngcloudalibaba的demo
-主要是学习尚硅谷的springcloud的课程
+学习spirngclou的学习
+主要是学习尚硅谷的springcloud的课程的代码实现
