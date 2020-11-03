@@ -1,0 +1,4 @@
+spring:
+  profiles:
+    #active: test  # 测试环境
+    active: info  # 开发环境,测试不同分组配置文件的访问情况
